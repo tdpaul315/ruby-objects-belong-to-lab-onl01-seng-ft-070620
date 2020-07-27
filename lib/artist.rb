@@ -1,8 +1,3 @@
 class Artist 
-  
-  def initialize(name)
-    @name = name 
-  end
-  
-  artist.new = name 
+  attr_accessor:name 
 end 
